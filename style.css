@@ -1,0 +1,40 @@
+body{
+    text-align: center;
+}
+#main{
+    background: #eee;
+    padding: 15px;
+    margin: 30px 8px;
+    border-radius: 5px;
+}
+
+#img-caption{
+    font-size:20px;
+    padding: 10px;
+}
+
+p{
+    padding-bottom:15px;
+}
+
+#title{
+    padding: 20px;
+    font-weight: bold;
+    font-size: 5rem;
+}
+
+#img-div{
+    background:white;
+    padding-top: 20px;
+}
+
+#image{
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: 0 auto;
+}
+
+#more{
+    padding-top: 20px;
+}
